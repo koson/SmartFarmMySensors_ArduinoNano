@@ -547,7 +547,7 @@
 		(descr "JST PH series connector, B3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH side entry")
 		(property "Reference" "J4"
-			(at 2 -2.9 270)
+			(at 2 -2.9 -90)
 			(layer "F.SilkS")
 			(uuid "3a1209f1-c9e0-4b35-a731-27a98de6f710")
 			(effects
@@ -558,7 +558,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 2 4 270)
+			(at 2 4 -90)
 			(layer "F.Fab")
 			(uuid "65fed668-5503-4df0-a350-9b095a144c79")
 			(effects
@@ -1000,7 +1000,7 @@
 			(uuid "487c9328-fe4e-43ee-bacb-0b739be1fd2a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2 1.5 270)
+			(at 2 1.5 -90)
 			(layer "F.Fab")
 			(uuid "722ac88b-0d4d-4715-9c1f-6f2d2ac88af9")
 			(effects
@@ -1063,7 +1063,7 @@
 		(descr "JST PH series connector, B3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH side entry")
 		(property "Reference" "J1"
-			(at 2 -2.9 270)
+			(at 2 -2.9 -90)
 			(layer "F.SilkS")
 			(uuid "24e73e4b-477b-493a-adcf-94f29cb40d9b")
 			(effects
@@ -1074,7 +1074,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 2 4 270)
+			(at 2 4 -90)
 			(layer "F.Fab")
 			(uuid "6a24eb88-ab30-436f-952d-eaed7bbe1ff4")
 			(effects
@@ -1516,7 +1516,7 @@
 			(uuid "8b614602-b29d-4d39-a7c7-3eb03e89e77b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2 1.5 270)
+			(at 2 1.5 -90)
 			(layer "F.Fab")
 			(uuid "7814fcec-aee3-4465-b995-4d63b49f44c5")
 			(effects
@@ -1789,7 +1789,7 @@
 		(descr "JST PH series connector, B3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH side entry")
 		(property "Reference" "J2"
-			(at 2 -2.9 270)
+			(at 2 -2.9 -90)
 			(layer "F.SilkS")
 			(uuid "95441c32-ef4d-42cf-8864-e5e57e970cf8")
 			(effects
@@ -1800,7 +1800,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 2 4 270)
+			(at 2 4 -90)
 			(layer "F.Fab")
 			(uuid "29c48bde-928f-48c8-b1ae-686bac350930")
 			(effects
@@ -2242,7 +2242,7 @@
 			(uuid "81dc32f1-77f1-461e-8d1a-bb1db7dd329b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2 1.5 270)
+			(at 2 1.5 -90)
 			(layer "F.Fab")
 			(uuid "97332b64-9e37-4a68-b0b9-796342f56ede")
 			(effects
@@ -2305,7 +2305,7 @@
 		(descr "JST PH series connector, B3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH side entry")
 		(property "Reference" "J3"
-			(at 2 -2.9 270)
+			(at 2 -2.9 -90)
 			(layer "F.SilkS")
 			(uuid "916dd4fd-6254-4720-ac1a-c6b7e9fbed1a")
 			(effects
@@ -2316,7 +2316,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 2 4 270)
+			(at 2 4 -90)
 			(layer "F.Fab")
 			(uuid "faff7e18-e768-4c15-9146-a8830a1d673a")
 			(effects
@@ -2758,7 +2758,7 @@
 			(uuid "e7156aff-208d-4d68-9285-94174d206cc9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2 1.5 270)
+			(at 2 1.5 -90)
 			(layer "F.Fab")
 			(uuid "c59503b9-ded4-4117-8610-f1de716669b5")
 			(effects
@@ -2821,7 +2821,7 @@
 		(descr "Terminal Block Xinya XY308-2.54-3P, 3 pins, pitch 2.54mm, size 8.12x6.5mm^2, drill diameter 1.2mm, pad diameter 2mm, see http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya")
 		(tags "THT Terminal Block Xinya XY308-2.54-3P pitch 2.54mm size 8.12x6.5mm^2 drill 1.2mm pad 2mm")
 		(property "Reference" "J6"
-			(at 2.54 -4.22 270)
+			(at 2.54 -4.22 -90)
 			(layer "F.SilkS")
 			(uuid "c85b2c12-db18-44aa-8f49-1ea404471ba2")
 			(effects
@@ -2832,7 +2832,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x03"
-			(at 2.54 4.52 270)
+			(at 2.54 4.52 -90)
 			(layer "F.Fab")
 			(uuid "5b7a2974-ee0c-4e2a-b4cd-d1984838c370")
 			(effects
@@ -3187,7 +3187,7 @@
 			(uuid "0467d17b-a988-4a9d-86c5-9d7e5945b3d1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 2.15 270)
+			(at 2.54 2.15 -90)
 			(layer "F.Fab")
 			(uuid "127d97fc-43e0-45cb-9945-c9ff68588eaa")
 			(effects
@@ -3260,7 +3260,7 @@
 			)
 		)
 		(property "Value" "Arduino_Nano_v3.x"
-			(at 8.89 19.05 270)
+			(at 8.89 19.05 -90)
 			(layer "F.Fab")
 			(uuid "7db0fbd9-6c1e-4948-a52a-42b5697b2a0a")
 			(effects
@@ -3634,7 +3634,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 6.35 19.05 270)
+			(at 6.35 19.05 -90)
 			(layer "F.Fab")
 			(uuid "09545337-7636-4130-b5f4-47a95a793660")
 			(effects
@@ -4203,7 +4203,7 @@
 		(descr "Terminal Block Xinya XY308-2.54-3P, 3 pins, pitch 2.54mm, size 8.12x6.5mm^2, drill diameter 1.2mm, pad diameter 2mm, see http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya")
 		(tags "THT Terminal Block Xinya XY308-2.54-3P pitch 2.54mm size 8.12x6.5mm^2 drill 1.2mm pad 2mm")
 		(property "Reference" "J5"
-			(at 2.54 -4.22 270)
+			(at 2.54 -4.22 -90)
 			(layer "F.SilkS")
 			(uuid "b70f9626-bae7-4995-b09e-16f354846d83")
 			(effects
@@ -4214,7 +4214,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x03"
-			(at 2.54 4.52 270)
+			(at 2.54 4.52 -90)
 			(layer "F.Fab")
 			(uuid "2b89c23d-871d-41f0-a169-b7b351886d7a")
 			(effects
@@ -4569,7 +4569,7 @@
 			(uuid "af69ca1c-deb8-4728-882e-083e2efa08a7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 2.15 270)
+			(at 2.54 2.15 -90)
 			(layer "F.Fab")
 			(uuid "3a389224-3268-419b-b035-e35b62f43760")
 			(effects
