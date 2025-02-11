@@ -3829,7 +3829,7 @@
 	)
 	(global_label "RY1"
 		(shape input)
-		(at 88.9 41.91 180)
+		(at 88.9 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3839,7 +3839,7 @@
 		)
 		(uuid "2029c8b7-1061-4e14-96d8-81d6043f02b4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 82.3467 41.91 0)
+			(at 82.3467 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4115,7 +4115,7 @@
 	)
 	(global_label "RY2"
 		(shape input)
-		(at 88.9 44.45 180)
+		(at 88.9 41.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4125,7 +4125,7 @@
 		)
 		(uuid "6b183d00-7050-4a07-a071-a3bf11c50def")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 82.3467 44.45 0)
+			(at 82.3467 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4803,7 +4803,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-3P_1x03_P2.54mm_Horizontal"
+		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal"
 			(at 39.37 101.6 0)
 			(effects
 				(font
@@ -6753,7 +6753,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 222.25 63.5 0)
 			(effects
 				(font
@@ -6977,7 +6977,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 256.54 63.5 0)
 			(effects
 				(font
